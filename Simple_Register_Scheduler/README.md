@@ -14,4 +14,4 @@ In this repositoy I have worked on creating a simple register scheduler that upd
 Logging has also been implemented in the work.
 
 ### NOTE ###
-This work haven't done any automatic testing or involved robust errohandling, thus, the work can be further developed if picked up again.
+This work haven't done any automatic testing or involved robust errohandling, thus, the work can be further developed if picked up.
