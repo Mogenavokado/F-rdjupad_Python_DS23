@@ -11,3 +11,7 @@ In most cases you can leave the Update_code_logic.py as it is if you dont have a
 
 
 In this repositoy I have worked on creating a simple register scheduler that updates sql database table with new data from a csv file and logs the changes made to the table. it register peoples name, age and city. With a scheduler to automate the operations, the library used for the scheduler is named "schedule".
+Logging has also been implemented in the work.
+
+### NOTE ###
+This work haven't done any automatic testing or involved robust errohandling, thus, the work can be further developed if picked up again.
